@@ -6,6 +6,7 @@ A Laravel-Vue starter project template.
 
 - Laravel 6
 - Vue 
+- Vue Router
 - Tailwind
 - PurgeCss
 - DebugBar
