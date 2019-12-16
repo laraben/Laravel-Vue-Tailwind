@@ -12583,8 +12583,8 @@ var app = new Vue({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/Laraben/Documents/Devprojects/Laravel-Vue-Tailwind/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Users/Laraben/Documents/Devprojects/Laravel-Vue-Tailwind/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/Laraben/Documents/Devprojects/LVT-test/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/Laraben/Documents/Devprojects/LVT-test/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
